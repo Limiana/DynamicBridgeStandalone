@@ -14,10 +14,9 @@ Or automatically put on a winter coat when you're going to a snowy place? With D
  - [Glamourer](https://github.com/Ottermandias/Glamourer)
  - [Customize+](https://github.com/XIV-Tools/CustomizePlus/)
  - [Honorific](https://github.com/Caraxi/Honorific/)
- - [Palette+ (Deprecated)](https://github.com/chirpxiv/PalettePlus)
 
 ## Installation
-[Please follow the instructions provided on SeaOfStars repo to install this plugin.](https://github.com/Ottermandias/SeaOfStars?tab=readme-ov-file#installing)
+[Please follow the instructions provided on SeaOfStars repo to install this plugin.](https://github.com/Ottermandias/SeaOfStars?tab=readme-ov-file#installing) 
 
 ## FAQ
 
@@ -28,6 +27,3 @@ Or automatically put on a winter coat when you're going to a snowy place? With D
 	2) "If I am in a tropical biome, put on X"
 
 	This way, when I go into the water it will put on my swimsuit and when I come out (if i am in a tropical area) it will put on my tropical outfit. 
-
-
-   
